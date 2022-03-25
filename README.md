@@ -1,2 +1,2 @@
 # vehicules
-L'objectif est de réaliser un design, en HTML &amp; CSS ! Nous explorerons la méthodologie, la notion de responsive.
+L'objectif est de réaliser un design, en HTML & CSS ! Version page web et version smartphone en mode responsivensive.
